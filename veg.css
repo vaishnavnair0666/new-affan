@@ -1,0 +1,37 @@
+/* mobile phone formatting*/
+
+  body
+   {
+      font-family:rockwell;
+      font-size:1em;
+      line-height:1.5em;
+      background:#C39BD3;
+    }
+    
+   h1
+   {
+     color:#AF601A;
+     text-align:center;
+     font-size:1.5em;
+     line-height:1.5em;
+    }
+   
+   img
+  
+
+    {
+      border-widht:2px;
+      border-style:solid;
+      border-color:#17202a
+      margin-left:30px;
+      margin-top:30px;
+      max-width:70%;
+     }
+   
+  section
+     {
+       text-align:center;
+     }
+   
+
+   
